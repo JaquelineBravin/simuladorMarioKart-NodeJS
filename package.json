@@ -1,0 +1,11 @@
+{
+  "name": "simuladormariokart-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jaqueline",
+  "license": "ISC",
+  "description": ""
+}
